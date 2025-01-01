@@ -1,5 +1,11 @@
 # Yara Rules
 
+<div style="text-align: center;">
+  <img src="./assets/logo.png" alt="Alt Text" width="200"/>
+</div>
+
+
+
 This repository contains Yara rules for detecting various types of malicious files.
 
 ## What is Yara?
