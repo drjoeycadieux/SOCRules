@@ -1,6 +1,6 @@
 # Yara Rules
 
-<div style="text-align: center;">
+<div align="center">
   <img src="./assets/logo.png" alt="Alt Text" width="200"/>
 </div>
 
